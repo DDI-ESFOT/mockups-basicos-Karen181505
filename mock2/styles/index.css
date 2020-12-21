@@ -1,0 +1,16 @@
+body{
+  display: block;
+  float: none;
+  width: 1200px;
+}
+header{
+  position: relative;
+  height: 200px;
+  text-align: center;
+  background-image: url('https://www.eluniverso.com/sites/default/files/styles/nota_ampliada_normal_foto/public/fotos/2019/11/mejores_celulares.png?itok=3NsQQJ-Y');
+}
+.container{
+
+  border-color: midnightblue;
+  border-radius: 10px;
+}
